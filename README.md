@@ -1,10 +1,3 @@
 # Blind-75
-Practicing the 75 must-do programs on LeetCode
-<br>
-EASY:
-1. Best Time to Buy and Sell Stock
-2. Linked List Cycle
-<br>
-MEDIUM:
-<br>
-HARD:
+Practicing the 75 must-do programs on LeetCode. This is a curated list of problems which are frequently asked in interviews and is a good place for programmers to kickstart their programming journey.
+Primary languages used are: Python and C++
